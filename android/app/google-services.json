@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "402512583510",
+    "firebase_url": "https://uber-app-6c08e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uber-app-6c08e",
+    "storage_bucket": "uber-app-6c08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402512583510:android:5e86cfdbed7eda271ad4f7",
+        "android_client_info": {
+          "package_name": "com.example.cab_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJNwhwzaXKolh9e02ns8cg7EolhFMQ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402512583510:android:6eaaa3c49b0f2cbc1ad4f7",
+        "android_client_info": {
+          "package_name": "com.example.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJNwhwzaXKolh9e02ns8cg7EolhFMQ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402512583510:android:1a9254cd47eb4b961ad4f7",
+        "android_client_info": {
+          "package_name": "com.yafey.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJNwhwzaXKolh9e02ns8cg7EolhFMQ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402512583510-5mtcef8i4fn5hvunrgt5gom2mb3c79tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
